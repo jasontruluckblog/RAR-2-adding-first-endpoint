@@ -1,6 +1,6 @@
-REST API in Ruby - Adding Grape
+REST API in Ruby - Adding the First Endpoint to an API
 ==================
 
-Part One of the [REST API in Ruby series]()
+Part 2 of the [REST API in Ruby series](http://jasontruluck.org/blog/2014/04/03/Building-A-Rest-API.html)
 
-This covers adding [Grape](https://github.com/intridea/grape) to a typical Rack application.
+This covers adding the first endpoint, a status endpoint, to the API using Test Driven Development.
